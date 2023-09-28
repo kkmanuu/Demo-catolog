@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "publish_date": "7/21/2021",
+    "publisher": "publisher manuu",
+    "cover_state": "good",
+    "label_ids": [
+      1353
+    ]
+  },
+  {
+    "id": 2,
+    "publish_date": "12/10/2021",
+    "publisher": "publisher Mercy",
+    "cover_state": "good",
+    "label_ids": [
+      1473
+    ]
+  },
+  {
+    "id": 3,
+    "publish_date": "18/2/2004",
+    "publisher": "publisher memo",
+    "cover_state": "bad",
+    "label_ids": [
+      882
+    ]
+  },
+  {
+    "id": 4,
+    "publish_date": "12/23/2009",
+    "publisher": "kk manuu",
+    "cover_state": "bad",
+    "label_ids": [
+      741
+    ]
+  },
+  {
+    "id": 5,
+    "publish_date": "12-21-2007",
+    "publisher": "kk",
+    "cover_state": "bad",
+    "label_ids": [
+      288
+    ]
+  },
+  {
+    "id": 6,
+    "publish_date": "12/12/2004",
+    "publisher": "publisher mum",
+    "cover_state": "good",
+    "label_ids": [
+      1965
+    ]
+  },
+  {
+    "id": 7,
+    "publish_date": "12/12/2004",
+    "publisher": "publisher mum",
+    "cover_state": "good",
+    "label_ids": [
+      1965
+    ]
+  },
+  {
+    "id": 8,
+    "publish_date": "12-5-1995",
+    "publisher": "hhaa",
+    "cover_state": "good",
+    "label_ids": [
+      599
+    ]
+  },
+  {
+    "id": 9,
+    "publish_date": "12/21/2004",
+    "publisher": "publisher kkk",
+    "cover_state": "good",
+    "label_ids": [
+      1714
+    ]
+  }
+]
