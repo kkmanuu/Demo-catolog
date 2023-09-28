@@ -1,5 +1,6 @@
 require 'securerandom'
 require 'date'
+require 'json'
 
 class Item
   attr_accessor :genres, :authors, :labels, :publish_date, :archived
